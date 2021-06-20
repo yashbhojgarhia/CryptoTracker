@@ -2,6 +2,8 @@
 
 # A Crypto Tracker iOS application in Swift 5
 
+*This App is built without the use of storyboard.*
+
 1. It lists the cryptocurrency with it's current price in a tableView.
 2. Each Crypto currency clicked opens a new controller which has it's last 30 day price moving chart.
 3. Right bar button to add your own holding for each crypto.
